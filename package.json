@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "jscs": "2.6.0"
-  }
+  },
   "main": "js/lib/jquery.transloadit2.js",
 }
