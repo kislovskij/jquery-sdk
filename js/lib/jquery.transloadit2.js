@@ -1162,4 +1162,4 @@
     return sprintf(translated, args);
   };
 
-}(window.jQuery);
+}(jQuery);
