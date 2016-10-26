@@ -1,6 +1,6 @@
 {
   "name": "transloadit-jquery-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "debug": "2.2.0",
     "jshint": "2.8.0"
